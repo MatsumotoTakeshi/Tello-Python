@@ -3,6 +3,7 @@ import threading
 import time
 from stats import Stats
 
+#Test comment3.
 class Tello:
     def __init__(self):
         self.local_ip = ''
